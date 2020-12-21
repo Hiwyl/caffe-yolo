@@ -1,0 +1,14 @@
+/projects/caffe-yolo/build/CMakeFiles/install.dir
+/projects/caffe-yolo/build/CMakeFiles/list_install_components.dir
+/projects/caffe-yolo/build/CMakeFiles/rebuild_cache.dir
+/projects/caffe-yolo/build/CMakeFiles/yolov3-plugin.dir
+/projects/caffe-yolo/build/CMakeFiles/install/strip.dir
+/projects/caffe-yolo/build/CMakeFiles/install/local.dir
+/projects/caffe-yolo/build/CMakeFiles/edit_cache.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/install.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/list_install_components.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/rebuild_cache.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/demo.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/install/strip.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/install/local.dir
+/projects/caffe-yolo/build/demo/CMakeFiles/edit_cache.dir
